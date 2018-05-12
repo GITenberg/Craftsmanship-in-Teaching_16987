@@ -1,0 +1,34 @@
+_repo: Craftsmanship-in-Teaching_16987
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Bagley, William C. (William Chandler)
+    alias: Bagley, William Chandler
+    birthdate: 1874
+    deathdate: 1946
+    gutenberg_agent_id: '7070'
+    url: http://www.gutenberg.org/2009/agents/7070
+description: ''
+gutenberg_issued: '2005-11-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16987'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'LB'
+- !lcsh 'Education'
+- !lcsh 'Teaching'
+tableOfContents: Craftsmanship in teaching -- Optimism in teaching -- How may we promote
+  the efficiency of the teaching force? -- The test of efficiency in supervision --
+  The supervisor and the teacher -- Education and utility -- The scientific spirit
+  in education -- The possibility of training children to study -- A plea for the
+  definite in education -- Science as related to the teaching of literature -- The
+  new attitude toward drill -- The ideal teacher.
+title: Craftsmanship in Teaching
+url: http://www.gutenberg.org/ebooks/16987
